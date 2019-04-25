@@ -1,2 +1,2 @@
-# Python-Basic-Algo
-Here are my some of the basic python algo questions
+## Python
+these are some of my basic python files
