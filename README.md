@@ -9,5 +9,8 @@ sudo apt-get update && sudo apt-get install python3
 ```
 If you are on the Windows, please download it from https://www.python.org/downloads/
 
-How to run the code?
-After finishing installation process, you can run like, python3 your_file_name.py
+### How to run the code?
+After finishing installation process, you can run like, 
+```
+python3 your_file_name.py
+```
